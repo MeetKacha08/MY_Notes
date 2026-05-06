@@ -211,6 +211,15 @@ body {
   gap: 8px;
 }
 
+.btn-icon {
+  padding: 8px; 
+  width: 42px;  
+  height: 42px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .btn:active {
   transform: scale(0.96);
 }
